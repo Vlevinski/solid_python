@@ -18,5 +18,5 @@
 “Abstractions should not depend on details. Details should depend on abstraction. High-level modules should not depend on low-level modules. Both should depend on abstractions”
 
 
-## MORE
+## SOURCE:
 https://towardsdatascience.com/solid-coding-in-python-1281392a6a94
