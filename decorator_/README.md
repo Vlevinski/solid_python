@@ -6,14 +6,14 @@
         return wrapper
     '''
 
-### Wrapper
+### Decorating
     '''
     @up_
     def show(text):
         return text
     '''
 
-### Run
+### Running
     '''
     >>> show('hello')
     'HELLO'
