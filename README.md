@@ -1,4 +1,4 @@
-### SOLID principles - Python
+### SOLID principles - Python (notes)
 
 #### SRP - The Single-responsibility principle (SRP)
 “A class should have one, and only one, reason to change”
